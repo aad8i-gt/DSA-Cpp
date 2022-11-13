@@ -1,0 +1,1 @@
+{"name":"Local: printMultiArrays","url":"f:\\DSA & C++\\arrays\\printMultiArrays.cpp","tests":[{"id":1660933205813,"input":"3 3\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\arrays\\printMultiArrays.cpp","group":"local","local":true}

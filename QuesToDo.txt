@@ -1,0 +1,18 @@
+Q1. Unique occurences ~ using xor operator
+Q2. Binary Addition
+Q3. Insertion Sort 
+Q4. Sum of two arrays
+Q5. Reverse Word Wise
+Q6. Reverse Each Word
+Q7. Minimum Length Word (Test-2)
+Q8. All Indexes Recursive
+Q9. CountZeroes Recursive
+Q10. GeometricSum Recursive
+Q11. SayDigits-Recursive~
+Q12. SumOfDigits-Recursive
+Q13. SumOfDigits-Recursive
+Q14. SumOfDigits-Recursive
+Q15. Finding Duplicates - XOR gate
+
+
+

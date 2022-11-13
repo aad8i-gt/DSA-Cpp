@@ -1,0 +1,1 @@
+{"name":"Local: sort_01","url":"f:\\C++\\sort_01.cpp","tests":[{"id":1658038257826,"input":"1\n6\n101010","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\sort_01.cpp","group":"local","local":true}

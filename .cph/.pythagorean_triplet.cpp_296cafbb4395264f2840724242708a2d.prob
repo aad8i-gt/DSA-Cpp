@@ -1,0 +1,1 @@
+{"name":"Local: pythagorean_triplet","url":"f:\\C++\\pythagorean_triplet.cpp","tests":[{"id":1653164966175,"input":"3 4 5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\C++\\pythagorean_triplet.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: removeCharacter","url":"f:\\DSA & C++\\removeCharacter.cpp","tests":[{"id":1659269406785,"input":"xxyyzxx\ny","output":"xxzxx"},{"id":1659269415798,"input":"aabccbaa\na","output":"bccb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\removeCharacter.cpp","group":"local","local":true}

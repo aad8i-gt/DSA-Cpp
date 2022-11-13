@@ -1,0 +1,1 @@
+{"name":"Local: leadNumbers","url":"f:\\DSA & C++\\arrays\\leadNumbers.cpp","tests":[{"id":1660980175134,"input":"6\n3 12 34 2 0 -1","output":""},{"id":1660980219493,"input":"5\n13 17 5 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\arrays\\leadNumbers.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: trimSpaces","url":"f:\\DSA & C++\\trimSpaces.cpp","tests":[{"id":1659122052275,"input":"a bc d e f g h i","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\trimSpaces.cpp","group":"local","local":true}

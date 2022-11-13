@@ -1,0 +1,1 @@
+{"name":"Local: compressString","url":"f:\\DSA & C++\\compressString.cpp","tests":[{"id":1659459141515,"input":"aaabbcddeeeee","output":""},{"id":1659459148458,"input":"aaabbccdsa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\compressString.cpp","group":"local","local":true}

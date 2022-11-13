@@ -1,0 +1,1 @@
+{"name":"Local: wordWise","url":"f:\\DSA & C++\\wordWise.cpp","tests":[{"id":1659435433454,"input":"welcome to coding ninjas","output":"ninjas coding to welcome "},{"id":1660907564594,"input":"aadi jain is nice","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\DSA & C++\\wordWise.cpp","group":"local","local":true}
